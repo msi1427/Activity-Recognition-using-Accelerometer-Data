@@ -1,5 +1,5 @@
 # Activity-Recognition-using-Accelerometer-Data
-This project is mostly our experimentation on Activity Recognition Problem based on Accelerometer Data using different Supervised Learning Algorithms.
+This project is mostly our background experimentation on Activity Recognition Problem based on Accelerometer Data using different Supervised Learning Algorithms for further research.
 # Datasets
 The dataset was collected from the Second Nurse Care Activity
 Recognition Challenge “From lab to field” under the HASCA Workshop in Ubicomp 2020. The data was collected using accelerometer
