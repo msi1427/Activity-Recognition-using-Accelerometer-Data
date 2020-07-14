@@ -1,5 +1,5 @@
 # Activity-Recognition-using-Accelerometer-Data
-This project is mostly our experimentation on Activity Recogtion Problem based of Accelerometer Data using different Supervised Learning Algorithms.
+This project is mostly our experimentation on Activity Recognition Problem based on Accelerometer Data using different Supervised Learning Algorithms.
 # Datasets
 The dataset was collected from the Second Nurse Care Activity
 Recognition Challenge “From lab to field” under the HASCA Workshop in Ubicomp 2020. The data was collected using accelerometer
@@ -26,4 +26,4 @@ accuracy of the model.
 # Recognition 
 We used KNN, Naive Bayes, SVM, Random Forest and Softmax Regression with Deep Neural Networks. Among them, Softmax Regression was the fastest and KNN was the most accurated.
 # Framework and IDE 
-Google Colab, Numpy, Pandas, Tensorflow, Keras,
+Google Colab, Numpy, Pandas, Tensorflow, Keras.
