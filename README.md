@@ -1,4 +1,4 @@
-# Activity-Recognition-using-Accelerometer-Data
+# Second-Nurse-Care-Activity-Recognition-Challenge-2020
 This project is mostly our background experimentation on Activity Recognition Problem based on Accelerometer Data using different Supervised Learning Algorithms for further research.
 # Datasets
 The dataset was collected from the Second Nurse Care Activity
