@@ -1,5 +1,7 @@
-# Second-Nurse-Care-Activity-Recognition-Challenge-2020
-This project is mostly our background experimentation on Activity Recognition Problem based on Accelerometer Data using different Supervised Learning Algorithms for further research.
+# Second-Nurse-Care-Activity-Recognition-Challenge-2020 
+URL : https://abc-research.github.io/nurse2020/
+# Abstract
+Sensor-based human activity recognition has become one of the challenging and emerging research areas. Several machine learning algorithm with appropriate feature extraction has been used to solve human activity recognition task. However, recent research mainly focused on various deep learning algorithms, our focus of this study is measuring the performance of traditional machine learning algorithms with the incorporation of frequency-domain features. Because deep learning methods require a high computational cost. In this paper, we used Naive Bayes, K-Nearest Neighbour, SVM, Random Forest and Multilayer Perceptron with necessary feature extraction for our experimentation. We achieved the best performance for K-Nearest Neighbour. Our experiment was a part of "The 2nd Nurse Care Activity Recognition Challenge Using Lab and Field Data" followed by the team MoonShot_BD. We concluded that with proper feature extraction, machine learning techniques may be useful to solve activity recognition with a low computational cost.
 # Datasets
 The dataset was collected from the Second Nurse Care Activity
 Recognition Challenge “From lab to field” under the HASCA Workshop in Ubicomp 2020. The data was collected using accelerometer
@@ -27,3 +29,5 @@ accuracy of the model.
 We used KNN, Naive Bayes, SVM, Random Forest and Softmax Regression with Deep Neural Networks. Among them, Softmax Regression was the fastest and KNN was the most accurated.
 # Framework and IDE 
 Google Colab, Numpy, Pandas, Tensorflow, Keras.
+# Result 
+Our team got first in the challenge.
